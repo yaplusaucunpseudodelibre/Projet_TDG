@@ -1,0 +1,3 @@
+C:/Users/leopo/CLionProjects/Projet_TDG_github/projet_tdg/cmake-build-debug/CMakeFiles/projettdg.dir
+C:/Users/leopo/CLionProjects/Projet_TDG_github/projet_tdg/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/leopo/CLionProjects/Projet_TDG_github/projet_tdg/cmake-build-debug/CMakeFiles/rebuild_cache.dir
